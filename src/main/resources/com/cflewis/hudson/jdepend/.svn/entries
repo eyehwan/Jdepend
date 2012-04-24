@@ -1,0 +1,37 @@
+10
+
+dir
+40370
+https://svn.jenkins-ci.org/trunk/hudson/plugins/jdepend/src/main/resources/com/cflewis/hudson/jdepend
+https://svn.jenkins-ci.org
+
+
+
+2009-07-18T23:40:19.540144Z
+19901
+Lewisham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+71c3de6d-444a-0410-be80-ed276b4c234a
+
+JDependRecorder
+dir
+
+JDependBuildAction
+dir
+
+JDependProjectAction
+dir
+

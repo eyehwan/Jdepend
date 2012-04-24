@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/38731/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend
+END
+JDependRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/21803/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend/JDependRecorder.java
+END
+JDependParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/20348/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend/JDependParser.java
+END
+JDependBuildAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/21128/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend/JDependBuildAction.java
+END
+JDependReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/38731/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend/JDependReportGenerator.java
+END
+JDependReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/20348/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend/JDependReporter.java
+END
+JDependProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/19867/trunk/hudson/plugins/jdepend/src/main/java/hudson/plugins/jdepend/JDependProjectAction.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/19901/trunk/hudson/plugins/jdepend/src/main/resources/hudson/plugins/jdepend/JDependBuildAction
+END
+index.jelly
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/19901/trunk/hudson/plugins/jdepend/src/main/resources/hudson/plugins/jdepend/JDependBuildAction/index.jelly
+END
