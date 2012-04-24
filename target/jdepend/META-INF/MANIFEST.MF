@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: eyehwan
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_10-rc2
+Extension-Name: jdepend
+Specification-Title: A Jenkins plugin that uses JDepend to generate me
+ trics.
+Implementation-Title: jdepend
+Implementation-Version: 1.2.4-SNAPSHOT
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: jdepend
+Long-Name: Jenkins JDepend Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/JDepend+Plugin
+Plugin-Version: 1.2.4-SNAPSHOT (private-04/24/2012 17:48-eyehwan)
+Hudson-Version: 1.377
+Plugin-Dependencies: dashboard-view:2.0
+Plugin-Developers: Chris Lewis:cflewis:chris@cflewis.com
+
